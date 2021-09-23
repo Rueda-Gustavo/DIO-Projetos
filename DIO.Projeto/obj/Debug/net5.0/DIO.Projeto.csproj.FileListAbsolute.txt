@@ -1,0 +1,16 @@
+C:\Users\cliente\source\Visual Studio Code\ProjetosCSharp\ProjetoDio\DIO.Projeto\bin\Debug\net5.0\DIO.Projeto.exe
+C:\Users\cliente\source\Visual Studio Code\ProjetosCSharp\ProjetoDio\DIO.Projeto\bin\Debug\net5.0\DIO.Projeto.deps.json
+C:\Users\cliente\source\Visual Studio Code\ProjetosCSharp\ProjetoDio\DIO.Projeto\bin\Debug\net5.0\DIO.Projeto.runtimeconfig.json
+C:\Users\cliente\source\Visual Studio Code\ProjetosCSharp\ProjetoDio\DIO.Projeto\bin\Debug\net5.0\DIO.Projeto.runtimeconfig.dev.json
+C:\Users\cliente\source\Visual Studio Code\ProjetosCSharp\ProjetoDio\DIO.Projeto\bin\Debug\net5.0\DIO.Projeto.dll
+C:\Users\cliente\source\Visual Studio Code\ProjetosCSharp\ProjetoDio\DIO.Projeto\bin\Debug\net5.0\ref\DIO.Projeto.dll
+C:\Users\cliente\source\Visual Studio Code\ProjetosCSharp\ProjetoDio\DIO.Projeto\bin\Debug\net5.0\DIO.Projeto.pdb
+C:\Users\cliente\source\Visual Studio Code\ProjetosCSharp\ProjetoDio\DIO.Projeto\obj\Debug\net5.0\DIO.Projeto.csproj.AssemblyReference.cache
+C:\Users\cliente\source\Visual Studio Code\ProjetosCSharp\ProjetoDio\DIO.Projeto\obj\Debug\net5.0\DIO.Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cliente\source\Visual Studio Code\ProjetosCSharp\ProjetoDio\DIO.Projeto\obj\Debug\net5.0\DIO.Projeto.AssemblyInfoInputs.cache
+C:\Users\cliente\source\Visual Studio Code\ProjetosCSharp\ProjetoDio\DIO.Projeto\obj\Debug\net5.0\DIO.Projeto.AssemblyInfo.cs
+C:\Users\cliente\source\Visual Studio Code\ProjetosCSharp\ProjetoDio\DIO.Projeto\obj\Debug\net5.0\DIO.Projeto.csproj.CoreCompileInputs.cache
+C:\Users\cliente\source\Visual Studio Code\ProjetosCSharp\ProjetoDio\DIO.Projeto\obj\Debug\net5.0\DIO.Projeto.dll
+C:\Users\cliente\source\Visual Studio Code\ProjetosCSharp\ProjetoDio\DIO.Projeto\obj\Debug\net5.0\ref\DIO.Projeto.dll
+C:\Users\cliente\source\Visual Studio Code\ProjetosCSharp\ProjetoDio\DIO.Projeto\obj\Debug\net5.0\DIO.Projeto.pdb
+C:\Users\cliente\source\Visual Studio Code\ProjetosCSharp\ProjetoDio\DIO.Projeto\obj\Debug\net5.0\DIO.Projeto.genruntimeconfig.cache
